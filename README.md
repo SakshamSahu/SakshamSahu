@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an app Doctors Time<br>🤝 I’m looking for help with Open Source.<br>🌱 I’m currently learning Spring Boot.<br>💬 Ask me about Flutter<br>⚡ Fun fact: Loves to play Games.<br> Open to Work
+🔭 I’m currently working on an app Doctors Time<br>🤝 I’m looking for help with Open Source.<br>🌱 I’m currently learning Spring Boot.<br>💬 Ask me about Flutter<br>⚡ Fun fact: Loves to play Online Games.<br> Open to Work
 
 
 ## 🌐 Socials:
